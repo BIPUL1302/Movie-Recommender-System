@@ -1,6 +1,6 @@
-# Movie-Recommender-System
+# Movies-Recommendation-System
 
-Content based movie recommender system
+Content based movie recommendation system
 
 [Link](https://movies-crs.herokuapp.com/)
 
